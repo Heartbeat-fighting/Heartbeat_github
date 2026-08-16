@@ -43,3 +43,6 @@ build/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# 本地推送辅助脚本（仅本机使用，不上传）
+push_to_github.bat
